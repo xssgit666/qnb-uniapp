@@ -1,0 +1,20 @@
+.content {
+  padding: 0 30rpx;
+}
+.content .row {
+  margin: 30rpx 0;
+}
+.nohistory {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.nohistory image {
+  width: 450rpx;
+}
+.nohistory .text {
+  font-size: 26rpx;
+  color: #888;
+}
+
